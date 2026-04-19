@@ -53,7 +53,7 @@ export function Hero() {
           <Button
             as="a"
             href="/resume.pdf"
-            download
+            download="Mamatha_H_Resume.pdf"
             size="lg"
             variant="primary"
             className="bg-blue-600 hover:bg-blue-500"
